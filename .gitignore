@@ -1,0 +1,19 @@
+# Maven
+target/
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+application-local.yml
